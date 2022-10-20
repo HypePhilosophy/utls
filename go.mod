@@ -1,4 +1,4 @@
-module gitlab.com/yawning/utls.git
+module gitlab.com/HypePhilosophy/utls
 
 require (
 	github.com/dsnet/compress v0.0.1
